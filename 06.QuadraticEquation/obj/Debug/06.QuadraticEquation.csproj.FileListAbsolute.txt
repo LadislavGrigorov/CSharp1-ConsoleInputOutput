@@ -1,0 +1,12 @@
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache

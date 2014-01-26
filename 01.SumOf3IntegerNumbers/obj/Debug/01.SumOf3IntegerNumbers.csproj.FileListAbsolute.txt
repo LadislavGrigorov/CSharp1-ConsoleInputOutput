@@ -1,0 +1,9 @@
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\01.SumOf3IntegerNumbers\bin\Debug\01.SumOf3IntegerNumbers.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\01.SumOf3IntegerNumbers\bin\Debug\01.SumOf3IntegerNumbers.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\01.SumOf3IntegerNumbers\bin\Debug\01.SumOf3IntegerNumbers.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\01.SumOf3IntegerNumbers\obj\Debug\01.SumOf3IntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\01.SumOf3IntegerNumbers\obj\Debug\01.SumOf3IntegerNumbers.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\01.SumOf3IntegerNumbers\obj\Debug\01.SumOf3IntegerNumbers.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\01.SumOf3IntegerNumbers\bin\Debug\01.SumOf3IntegerNumbers.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\01.SumOf3IntegerNumbers\obj\Debug\01.SumOf3IntegerNumbers.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\01.SumOf3IntegerNumbers\obj\Debug\01.SumOf3IntegerNumbers.pdb

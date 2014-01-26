@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\08.SumOf1toN\bin\Debug\08.SumOf1toN.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\08.SumOf1toN\obj\Debug\08.SumOf1toN.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\08.SumOf1toN\obj\Debug\08.SumOf1toN.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\08.SumOf1toN\bin\Debug\08.SumOf1toN.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\08.SumOf1toN\bin\Debug\08.SumOf1toN.pdb

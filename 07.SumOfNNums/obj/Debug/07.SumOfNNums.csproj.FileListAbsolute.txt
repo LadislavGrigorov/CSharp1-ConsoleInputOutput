@@ -1,0 +1,12 @@
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\07.SumOfNNums\bin\Debug\07.SumOfNNums.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\07.SumOfNNums\bin\Debug\07.SumOfNNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\07.SumOfNNums\bin\Debug\07.SumOfNNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\07.SumOfNNums\obj\Debug\07.SumOfNNums.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\07.SumOfNNums\obj\Debug\07.SumOfNNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\07.SumOfNNums\obj\Debug\07.SumOfNNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\07.SumOfNNums\bin\Debug\07.SumOfNNums.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\07.SumOfNNums\obj\Debug\07.SumOfNNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\07.SumOfNNums\obj\Debug\07.SumOfNNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\07.SumOfNNums\bin\Debug\07.SumOfNNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\07.SumOfNNums\bin\Debug\07.SumOfNNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\07.SumOfNNums\obj\Debug\07.SumOfNNums.csprojResolveAssemblyReference.cache

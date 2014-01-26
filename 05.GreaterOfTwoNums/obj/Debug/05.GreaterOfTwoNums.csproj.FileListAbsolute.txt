@@ -1,0 +1,12 @@
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\05.GreaterOfTwoNums\bin\Debug\05.GreaterOfTwoNums.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\05.GreaterOfTwoNums\bin\Debug\05.GreaterOfTwoNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\05.GreaterOfTwoNums\bin\Debug\05.GreaterOfTwoNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\05.GreaterOfTwoNums\obj\Debug\05.GreaterOfTwoNums.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\05.GreaterOfTwoNums\obj\Debug\05.GreaterOfTwoNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput\05.GreaterOfTwoNums\obj\Debug\05.GreaterOfTwoNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\05.GreaterOfTwoNums\bin\Debug\05.GreaterOfTwoNums.exe.config
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\05.GreaterOfTwoNums\obj\Debug\05.GreaterOfTwoNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\05.GreaterOfTwoNums\obj\Debug\05.GreaterOfTwoNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\05.GreaterOfTwoNums\bin\Debug\05.GreaterOfTwoNums.exe
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\05.GreaterOfTwoNums\bin\Debug\05.GreaterOfTwoNums.pdb
+D:\Telerik\C# Part I\04.Вход и изход от конзолата\ConsoleInputOutput-Homework\05.GreaterOfTwoNums\obj\Debug\05.GreaterOfTwoNums.csprojResolveAssemblyReference.cache
